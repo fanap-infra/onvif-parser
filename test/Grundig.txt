@@ -1,0 +1,305 @@
+de=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:28Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=4.949927036 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:37  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:37  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:28Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=0.079982771 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:38  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:29Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.006667866 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:38  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:38  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:29Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.087239534 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:39  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:30Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=2.014351125 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:39  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:39  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:30Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=0.080975005 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:40  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:31Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.007048135 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:40  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:40  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:31Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.047347595 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:41  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:32Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=2.017141391 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:41  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:41  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:32Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="true"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=0.040067031 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:42  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:33Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.004425414 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:42  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:42  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:33Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.0450315 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:43  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:34Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=2.01073421 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:43  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:43  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:34Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=0.040209613 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:44  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:35Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.005978862 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:44  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:44  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:36Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.086917508 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:45  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:36Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=1.9735070540000001 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:45  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:45  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:36Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=2.013940985 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:46  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:VideoSource/MotionAlarm</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:37Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Source" Value="VideoSource_1"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="State" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=2.9798456719999997 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:46  INFO   [PlayBack] webrtc/loop.go:169            send motion alarm
+2021-09-25 14:38:46  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:RuleEngine/CellMotionDetector/Motion</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:37Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="VideoSourceConfigurationToken" Value="VideoSourceToken"/>
+<tt:SimpleItem Name="VideoAnalyticsConfigurationToken" Value="VideoAnalyticsToken"/>
+<tt:SimpleItem Name="Rule" Value="MyMotionDetectorRule"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="IsMotion" Value="false"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=0.039390218 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:38:55  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:Monitoring/ProcessorUsage</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:37:47Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Token" Value="Processor_Usage"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="Value" Value="37"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=9.134115174 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:39:25  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:Monitoring/ProcessorUsage</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:38:17Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Token" Value="Processor_Usage"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="Value" Value="20"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
+ lastMotion=39.247275585 DataChannelIsOpen=true motionAnalyzerOn=false
+2021-09-25 14:39:55  INFO   [PlayBack] webrtc/loop.go:165            PacketType_PacketMetaDataOnvif key=rtsp://admin:1234@192.168.13.122:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1[1] data=<?xml version="1.0" encoding="UTF-8"?>
+<tt:MetaDataStream xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:tns1="http://www.onvif.org/ver10/topics"><tt:Event><wsnt:NotificationMessage><wsnt:Topic Dialect="http://www.onvif.org/ver10/tev/topicExpression/ConcreteSet">tns1:Monitoring/ProcessorUsage</wsnt:Topic>
+<wsnt:Message><tt:Message UtcTime="2021-09-25T14:38:47Z" PropertyOperation="Changed"><tt:Source><tt:SimpleItem Name="Token" Value="Processor_Usage"/>
+</tt:Source>
+<tt:Data><tt:SimpleItem Name="Value" Value="23"/>
+</tt:Data>
+</tt:Message>
+</wsnt:Message>
+</wsnt:NotificationMessage>
+</tt:Event>
+</tt:MetaDataStream>
